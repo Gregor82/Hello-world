@@ -1,3 +1,4 @@
 # Hello-world
-My repository test
-This step I try work with Girhub
+My repository test.
+
+With this step I try work with Girhub
